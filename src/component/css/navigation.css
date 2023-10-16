@@ -1,0 +1,19 @@
+.knav{
+    padding-left: 5rem;
+    
+}
+.knav li{
+    margin: 2px 5px;
+    
+}
+
+.knav li a{
+    font-size: 19px;
+    font-weight: 500;
+    color: white;
+}
+
+.knav li a:hover{
+    background-color: blue;
+    color: white;
+}

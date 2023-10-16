@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+@media (min-device-width: 100px) and (max-device-width: 550px) {
+
+    .subfooter-box{
+        width: 100%;
+        display:none!important;
+    }
+
+.foot{
+  
+    flex-direction: column;
+    width: 100%;
+    padding: 0px!important;
+
+}
+
+
+
+.foot a{
+    width: 100px!important;
+   display: inline-block;
+}
+    
+
+.foot a li{
+    width: max-content;
+}
+    
+
+textarea{
+    width: 250px;
+}
+    
+    
+
+
+}

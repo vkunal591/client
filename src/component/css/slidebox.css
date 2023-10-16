@@ -1,0 +1,39 @@
+.slidebox {
+  width: 95%;
+}
+
+@media (min-device-width: 100px) and (max-device-width: 550px) {
+  .slide-box {
+    flex-direction: column;
+  }
+
+  .mslide-box {
+    width: 100%!important;
+  }
+
+  .sidecard-box{
+    width: 100%!important;
+    margin-top: 0.5rem!important;
+  }
+
+  .sidebar-box{
+    display: none;
+  }
+
+  .category-box{
+    flex-direction: column;
+    width: 100%!important;
+    margin-left: 0px!important;
+  }
+  
+  .mpost-box{
+    width: 100%!important;
+  }
+  .sidepost-box{
+    width: 85%!important;
+  }
+
+  .contactus-box{
+    width: 80%!important;
+  }
+}
